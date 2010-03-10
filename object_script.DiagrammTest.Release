@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\diagramm.o
+./release\diagrammScene.o
+./release\diagrammDataModel.o
+./release\diagrammView.o
+./release\diagrammScaleItem.o
+./release\diagrammChartItem.o
+./release\moc_diagramm.o
+./release\moc_diagrammScene.o
+./release\moc_diagrammView.o
+./release\moc_diagrammChartItem.o
+);

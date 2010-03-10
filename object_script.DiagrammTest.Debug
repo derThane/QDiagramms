@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\diagramm.o
+./debug\diagrammScene.o
+./debug\diagrammDataModel.o
+./debug\diagrammView.o
+./debug\diagrammScaleItem.o
+./debug\diagrammChartItem.o
+./debug\moc_diagramm.o
+./debug\moc_diagrammScene.o
+./debug\moc_diagrammView.o
+./debug\moc_diagrammChartItem.o
+);
